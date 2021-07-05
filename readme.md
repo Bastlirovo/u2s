@@ -11,7 +11,7 @@
 - On board 3V3 regulator (500 mA)
 - Over current protection (suitable for development)
 - Connector with key (so you can make idiot-proof cables) but DuPont friendly
-- Both micro and mini USB connector (they are on opposite side of the board so you cannot use both in same time, but you will have more probability to find correct cable… you know Murphys Law)
+- Both micro and USB-C connector (they are on opposite side of the board so you cannot use both in same time, but you will have more probability to find correct cable… you know Murphys Law)
 
 ## Connector
 
